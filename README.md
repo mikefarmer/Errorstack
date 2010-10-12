@@ -9,6 +9,7 @@ This is a simple ruby gem for adding errorstack to your ruby applications.  Erro
     require 'errorstack'
 
     # Obtain your errorstack stack key from http://errorstack.com
+    # Add message (string) and backtrace (text) to your stack schema.
 
     Errorstack::STACK_KEY = "YOUR STACK KEY HERE"
 
