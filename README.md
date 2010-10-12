@@ -21,7 +21,7 @@ This is a simple ruby gem for adding errorstack to your ruby applications.  Erro
 
 # Contributing
 
-Please feel free to contrite by forking the repo. Pull requests are welcome. Please update/include any applicable tests
+Please feel free to contribute by forking the repo. Pull requests are welcome. Please update/include any applicable tests
 
 # Author
 
